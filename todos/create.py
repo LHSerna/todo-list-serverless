@@ -7,6 +7,7 @@ import uuid
 import boto3
 dynamodb = boto3.resource('dynamodb')
 
+#Create code
 
 def create(event, context):
     data = json.loads(event['body'])
