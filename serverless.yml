@@ -1,4 +1,4 @@
-org: practicaunir
+org: LHSerna
 app: todo-list-serverless
 
 service: serverless-rest-api-with-dynamodb
